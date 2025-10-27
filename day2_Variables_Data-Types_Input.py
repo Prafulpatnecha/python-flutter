@@ -34,3 +34,11 @@ print("Hello",nameInput)
 # Convert Input Type
 ageInput = int(input("Enter your age: "))
 print("You are",ageInput,"Years old.")
+
+
+
+# -------------------------------------[Practice Tasks]----------------------------------------------
+# Task 1] Program that takes 2 numbers and prints their sum.
+a=10
+b=20
+print(a+b)
